@@ -44,7 +44,7 @@ body {
     background: linear-gradient(180deg, rgba(150,193,252,0.8) 0%, rgba(68,176,155,1) 100%);
     flex-direction: column;
     align-items: center;
-    width: 500px;
+    min-width: 300px;
     box-shadow: 0 5px 10px rgb(22, 223, 183);
 }
 

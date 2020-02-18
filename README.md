@@ -1,5 +1,5 @@
 # Pavel_Koshcheev_ITMO_labs
-## [Deploy links](https://koshcheevpa.github.io/Pavel_Koshcheev_ITMO_labs/)
+## [Deploy link со списком заданий](https://koshcheevpa.github.io/Pavel_Koshcheev_ITMO_labs/)
 ## xml_intro
 > [Задание](https://kodaktor.ru/g/xml_intro)  
 

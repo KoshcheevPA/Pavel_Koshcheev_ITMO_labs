@@ -21,7 +21,7 @@ body {
     padding: 10px 48px;
     font-size: 26px;
     color: snow;
-    text-shadow: 0 0 20px rgb(22, 223, 183);
+    text-shadow: 0 0 15px rgb(22, 223, 183);
     background: linear-gradient(180deg, rgba(150,193,252,0.8) 0%, rgba(68,176,155,1) 100%);
     box-shadow: 0 0 15px rgb(22, 223, 183);
 }
